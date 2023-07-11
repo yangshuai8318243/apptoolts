@@ -1,0 +1,1 @@
+java -jar D:\bundletool\bundletool-all-1.15.1.jar %*
